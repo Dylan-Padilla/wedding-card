@@ -1,7 +1,13 @@
 .actionButton {
   position: absolute;
   right: 5em;
+  
 }
+
+.hr {
+    border-top: 3px solid white;
+}
+
 
 .triggerButton { display: none; }
 

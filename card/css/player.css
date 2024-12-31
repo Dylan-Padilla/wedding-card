@@ -4,6 +4,11 @@
     -webkit-backdrop-filter: saturate(180%) blur(10px);
 }
 
+hr {
+    border-top: 30px solid white;
+}
+
+
 .music-player {
     position: relative;
     display: flex;

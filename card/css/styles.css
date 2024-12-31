@@ -45,6 +45,10 @@
   margin: 0;
 }
 
+hr {
+    border-top: 3px solid white;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -78,7 +82,7 @@ footer {
 }
 
 main {
-    background-image: url(../../img/marriednow-project/card-bg.jpg);
+    background-image: url(../../img/pedro-karen4.jpeg);
 }
 
 .main-div {
@@ -305,6 +309,7 @@ main {
   background-position: center;
   justify-content: center;
   align-items: center;
+  
 }
 
 .wrapper {
@@ -561,7 +566,7 @@ p.hashtag {
 .feature-card {
   transition: max-height 0.25s ease-in;
 
-  background-color: #FFF;
+  background-color: black;
   width: 100%;
   padding: 10px 0px 75px 0px;
   border-radius: 1.25rem 1.25rem 0 0;
